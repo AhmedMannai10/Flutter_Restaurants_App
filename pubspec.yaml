@@ -49,6 +49,9 @@ dependencies:
   shared_preferences: ^2.2.1
   # Functional programming
   dartz: ^0.10.1
+  # equality
+  equatable: ^2.0.5
+  google_fonts: ^6.1.0
 
 
 dev_dependencies:
